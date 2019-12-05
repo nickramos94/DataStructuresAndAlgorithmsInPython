@@ -1,0 +1,2 @@
+"Think about code reuse", says the Hints to Exercises.
+Doesn't help much.
