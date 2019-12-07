@@ -1,0 +1,6 @@
+Line 1 : 0 intersection
+Line 2 : 1 intersection with the first
+Line 3 : 2 new intersections with the preceding lines
+Line 4 : 3 new intersections with the preceding lines
+...
+These are the triangular numbers which are indeed omega(n^2)

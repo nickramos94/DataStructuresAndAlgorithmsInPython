@@ -1,0 +1,2 @@
+log i <= log n
+sum <= n log n 

@@ -1,0 +1,3 @@
+logb f(n) = log f(n) / log b
+          = log f(n) * (1 / log b)
+: O(log f(n))

@@ -1,0 +1,9 @@
+We use the fact that (log(a) + log(b)) < (2 * log(a+b)).
+
+Pairing the terms like little Gauss, we have n / 2 terms,
+each smaller than (2 * (log n + 1))
+
+O(n/2) * O(2 * log(n + 1))
+= O(n) * O(2 * log(n))
+= O(n) * O(log(n))
+= O(n log n)

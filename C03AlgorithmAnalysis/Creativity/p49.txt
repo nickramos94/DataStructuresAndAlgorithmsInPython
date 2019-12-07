@@ -1,0 +1,6 @@
+F(n) = a
+F(n+1) = b > a
+F(n+2) = a + b
+F(n+3) = a + b + b
+F(n+4) = a + a + b + b + b > 2.25 F(n+2)
+F(n+5) = a + a + a + b + b + b + b + b > 2.25 F(n+3)

@@ -1,0 +1,10 @@
+A.
+r = 2 ** 100
+Either p or q is below sqrt(r)
+So in the worst case (close to the sqrt), we have to search until 2 ** 50
+2 ** 50 / 1000000 = 1 125 899 906 seconds
+                  = 36 years
+
+B.
+We have 2 ^ ((log r) / 2) = 2 ^ (4n) divisions.
+Since each division takes O(n) time, the running time of the algorithm is O(n 2^4n).

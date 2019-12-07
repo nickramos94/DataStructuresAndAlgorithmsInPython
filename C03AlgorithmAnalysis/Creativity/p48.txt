@@ -1,0 +1,2 @@
+It does not mean anything for a specific value to be O of anything.
+Or everything would be O(1).
