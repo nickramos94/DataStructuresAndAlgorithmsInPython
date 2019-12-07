@@ -1,0 +1,4 @@
+d(n) is O(f(n))
+d(n) <= cf(n)
+ad(n) <= acf(n)
+ad(n) is O(f(n))

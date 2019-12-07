@@ -1,0 +1,1 @@
+log transforms powers to multpilication

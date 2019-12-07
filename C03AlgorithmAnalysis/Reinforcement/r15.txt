@@ -1,0 +1,4 @@
+g is omega(f)
+af <= g
+f <= g * 1/a
+f is O(g)

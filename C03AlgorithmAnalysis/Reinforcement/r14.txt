@@ -1,0 +1,11 @@
+Left to right :
+f is O(max(f, g))
+f <= a max(f, g)
+f <= a (f + g)
+f is O(f + g)
+
+Right to left :
+f is O(f + g)
+f <= a (f + g)
+f <= 2 * a * max(f, g)
+f is O(max(f, g))

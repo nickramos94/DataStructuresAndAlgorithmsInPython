@@ -1,0 +1,7 @@
+d(n) is O(f(n))
+e(n) is O(g(n))
+d(n) <= af(n)
+e(n) <= bg(n)
+d(n) + e(n) <= af(n) + bg(n)
+d(n) + e(n) <= max(a,b) (f(n) + g(n))
+d(n) + e(n) is O(f(n) + g(n))

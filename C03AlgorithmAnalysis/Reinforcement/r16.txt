@@ -1,0 +1,5 @@
+p = 3n^3+7n+42
+log p(n) is O(log(3n^3+7n+42))
+log p(n) is O(log(n^3))
+log p(n) is O(log(n)*log(3))
+log p(n) is O(log(n))
