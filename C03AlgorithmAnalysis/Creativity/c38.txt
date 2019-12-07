@@ -1,0 +1,4 @@
+Sum from 1 to n of i^2
+<= Sum from 1 to n of n^2
+<= n^3
+: O(n^3)
