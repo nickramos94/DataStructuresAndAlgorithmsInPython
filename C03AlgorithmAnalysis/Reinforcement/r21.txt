@@ -1,0 +1,3 @@
+log n >= 1
+n log n >= n
+n log n is omega(n)

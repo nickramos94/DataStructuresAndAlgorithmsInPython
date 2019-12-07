@@ -1,0 +1,2 @@
+Same as before with 2 times less iterations.
+O(n/2) is still O(n).

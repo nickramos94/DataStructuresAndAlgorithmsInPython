@@ -1,0 +1,2 @@
+ceil(f) <= f + 1
+ceil(f) is O(f)

@@ -1,0 +1,1 @@
+Only constant things in the loop so the function is O(n).

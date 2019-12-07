@@ -1,0 +1,2 @@
+Assuming the random thing is negligeable (it probably is O(log n))
+This is O(n) * O(log n) = O(n log n)

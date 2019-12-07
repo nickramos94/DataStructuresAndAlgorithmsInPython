@@ -1,0 +1,7 @@
+They have a 1/1 chance of enjoying their first meal,
+          a 1/2 chance of enjoying their first meal,
+          a 1/3 chance of enjoying their first meal,
+          ...
+This is the harmonic series.
+H(n) is O(log(n))
+They will enjoy on average log(meals a day * days in life).

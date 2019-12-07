@@ -1,0 +1,7 @@
+len is O(1)
+assignement is O(1)
+loop maintenance is O(n)
+    incrementation and list access are O(1) and done n times so O(n)
+return is O(1)
+
+The function is O(n).

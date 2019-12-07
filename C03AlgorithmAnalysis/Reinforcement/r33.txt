@@ -1,0 +1,1 @@
+Maybe Al has a big constant factor in his O(n log n) alg. Nevertheless, it eventually fades away, like all things.

@@ -1,0 +1,2 @@
+If S is full of evens : O(n^2)
+If S is full of odds : O(n log n)

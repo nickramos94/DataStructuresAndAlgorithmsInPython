@@ -1,0 +1,1 @@
+Triangular thing is O(n^2)

@@ -1,0 +1,5 @@
+Loop 1 executes n times.
+Loop 2 executes n*n times.
+Loop 3 executes ~ n*n*(n/2) times.
+
+The function is O(n^3).
