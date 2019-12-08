@@ -1,15 +1,15 @@
 def power(base, exp):
     """Confusing and uninspired on variable names, sorry."""
     result = 1
-    div = 1
+    sub = 1
     cur = base
     while exp > 0:
-        if div > exp:
-            div = 1
+        if sub > exp:
+            sub = 1
             cur = base
             continue
-        exp -= div
-        div *= 2
+        exp -= sub
+        sub *= 2
         result *= cur
         cur *= cur
     return result
