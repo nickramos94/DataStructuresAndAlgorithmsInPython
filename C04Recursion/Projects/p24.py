@@ -1,6 +1,6 @@
 """
 I suffered.
-Takes about 22:27:00 to run on my computer.
+Takes about 3 hours to run on my computer.
 """
 
 
