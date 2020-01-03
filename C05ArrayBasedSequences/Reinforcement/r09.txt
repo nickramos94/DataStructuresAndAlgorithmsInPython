@@ -1,0 +1,5 @@
+Using a string of symbols like
+SYMBOLS = "αβγδ..."
+and using the indices of this list instead of the ASCII value of the characters.
+
+Or if the alphabet used permits it, just find the Unicode value of the first character and use that instead. 
