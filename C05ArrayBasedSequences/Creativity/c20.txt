@@ -1,0 +1,1 @@
+We could then have an array of size 128 (for example), appending would resize O(n), then poping would resize O(n), then appending would resize O(n)... Yielding a running time of O(n**2).

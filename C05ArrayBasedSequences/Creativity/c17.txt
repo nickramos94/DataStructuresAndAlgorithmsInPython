@@ -1,0 +1,6 @@
+We have seen before that n append operations is O(n).
+We now have an array of size > n.
+Standard pop operations are O(1) and there are O(n) of those.
+Special pop operations are O(m) with m being twice as small every time so total is O(n).
+
+O(n) + O(n) + O(n) = O(n)

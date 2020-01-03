@@ -1,4 +1,4 @@
-# It always assumes the size of the list will be constant
+# It always assumes the size of the list will be constant (so no extra space)
 # but switches to dynamic mode (with constant 9/8) when an item is appended to the list
 
 import sys
