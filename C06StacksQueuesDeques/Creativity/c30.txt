@@ -1,9 +1,0 @@
-Stacks ? Queues ? Deques ? Nope, bridges.
-
--> 2 4
-<- 2
--> 10 20
-<- 4
--> 2 4
-
-Total = 4 + 20 + 2 + 4 + 4 = 34
