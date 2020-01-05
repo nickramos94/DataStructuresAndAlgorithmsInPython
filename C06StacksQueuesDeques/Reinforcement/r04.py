@@ -30,7 +30,7 @@ class ArrayStack:
             return
         else:
             self.pop()
-            self.remove_all()
+            self.clear()
 
     def top(self):
         try:
