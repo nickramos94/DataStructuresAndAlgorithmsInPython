@@ -4,8 +4,8 @@ class Empty(Exception):
 
 
 class ArrayStack:
-    def __init__(self, initial=[]):
-        self.__data = initial
+    def __init__(self, initial=None):
+        self.__data = [] if initial == None else initial
 
     def __len__(self):
         return len(self.__data)
