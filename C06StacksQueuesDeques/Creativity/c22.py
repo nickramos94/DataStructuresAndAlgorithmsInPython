@@ -62,7 +62,12 @@ def postfix_eval(expr):
             term2 = stack.pop()
             term1 = stack.pop()
             stack.push(eval(f"{term1}{elem}{term2}"))
-    return stack.pop()
+    # Only return if stack length is one
+    result = stack.pop()
+    if stack.is_empty():
+        return result
+    else:
+        raise ValueError
 
 
 if __name__ == "__main__":
