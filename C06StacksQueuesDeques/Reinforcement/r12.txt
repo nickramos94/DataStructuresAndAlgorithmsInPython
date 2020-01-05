@@ -1,0 +1,12 @@
+add_first(4)   | [4, None, None, None, None]
+add_last(8)    | [4, 8, None, None, None]
+add_last(9)    | [4, 8, 9, None, None]
+add_first(5)   | [4, 8, 9, None, 5]
+delete_first() | [4, 8, 9, None, None]      -> 5
+delete_last()  | [4, 8, None, None, None]   -> 9
+add_last(7)    | [4, 8, 7, None, None]
+first()        | [4, 8, 7, None, None]      -> 4
+last()         | [4, 8, 7, None, None]      -> 7
+add_last(6)    | [4, 8, 7, 6, None]
+delete_first() | [None, 8, 7, 6, None]      -> 4
+delete_first() | [None, None, 7, 6, None]   -> 8

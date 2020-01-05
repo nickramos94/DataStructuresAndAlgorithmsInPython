@@ -1,0 +1,1 @@
+There would be a reordering of the elements. (The new front being 0)

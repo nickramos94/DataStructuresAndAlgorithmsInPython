@@ -25,7 +25,7 @@ class ArrayStack:
     def push(self, elem):
         self.__data.append(elem)
 
-    def remove_all(self):
+    def clear(self):
         if self.is_empty():
             return
         else:
@@ -46,5 +46,5 @@ if __name__ == "__main__":
     stack.push(69)
     stack.push(111)
     print(stack)
-    stack.remove_all()
+    stack.clear()
     print(stack)
