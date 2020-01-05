@@ -1,0 +1,2 @@
+Pop from stack until the element is found or the stack is empty and enqueue in them.
+Then dequeue everything back to the stack.
