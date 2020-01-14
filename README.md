@@ -1,4 +1,4 @@
-# data-structures-and-algorithms-in-python-solutions
+# DataStructuresAndAlgorithmsInPython
 
 Solutions to "Data Structures and Algorithms in Python" by Michael T. Goodrich, Roberto Tamassia and Michael H. Goldwasser.
 
