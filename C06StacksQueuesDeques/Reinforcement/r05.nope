@@ -1,0 +1,10 @@
+// Give a recursive method for removing all the elements from a stack
+
+public static void recursiveEmptying(Stack s)
+{
+    if(s.top() != null)
+    {
+        s.pop();
+        recursiveEmptying(s);
+    }
+}
